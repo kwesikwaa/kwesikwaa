@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AnanseVerse, a social media platform for digital artists in Ghana**
 
-- 🌱 I’m currently learning **Automation and OpenCV**
+- 🌱 I’m currently learning **QA/Automation and OpenCV**
 
 <div align="center">
 <h3>Connect with me:</h3>
