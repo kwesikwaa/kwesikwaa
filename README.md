@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Akwaaba, I am Kwesikwaa Hayford</h1>
-<h3 align="center">A Fullstack and Flutter developer. I love Houdini for all 3d magic and tinkle with Unreal and Unity Engines as well</h3>
+<h1 align="center">Akwaaba, I am Kwesikwaa Hayford</h1>
+<h3 align="center">A Software Engineer(Fullstack and Flutter developer). Also love SideFx Houdini for all the 3d magic and tinkle with Unreal and Unity Engines as well</h3>
 
 - 🔭 I’m currently working on **AnanseVerse, a social media platform for digital artists in Ghana**
 
