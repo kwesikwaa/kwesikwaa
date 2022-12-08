@@ -5,7 +5,7 @@
 <div align="center">
 - 🔭 I’m currently working on **AnanseVerse, a social media platform for digital artists in Ghana**
 
-- 🌱 I’m currently learning **QA/Automation and OpenCV**
+- 🌱 I’m currently learning **QA/Automation, OpenCV and OpenAI**
 </div>
 <div align="center">
 <h3>Connect with me:</h3>
