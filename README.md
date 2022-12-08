@@ -3,7 +3,7 @@
 <h4 align="center">Also loves SideFx Houdini for all the 3d magic and tinkle with Unreal and Unity Engines as well</h4>
 
 <div align="center">
-- 🔭 I’m currently working on **AnanseVerse, a social media platform for digital artists in Ghana**
+- 🔭 I’m currently working on **AnanseArena, a social media platform for digital artists in Ghana**
 
 - 🌱 I’m currently learning **QA/Automation, OpenCV and OpenAI**
 </div>
