@@ -1,11 +1,10 @@
 <h1 align="center">Akwaaba, I am Kwesikwaa Hayford</h1>
-<h3 align="center">A Software Engineer(Fullstack and Flutter developer)</h3>
+<h3 align="center">A Software Engineer</h3>
 <h4 align="center">Also loves SideFx Houdini for all the 3d magic and tinkle with Unreal and Unity Engines as well</h4>
 
 <div align="center">
-<!-- - 🔭 I’m currently working on **AnanseArena, a social media platform for digital artists in Ghana** -->
 
-- Currently learning **QA/Automation, OpenCV and OpenAI**
+
 </div>
 <!-- <div align="center">
   
