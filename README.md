@@ -1,8 +1,8 @@
-<h1 align="center">Akwaaba, I am Kwesikwaa Hayford</h1>
-<h3 align="center">A Software Engineer</h3>
-<h4 align="center">Also loves SideFx Houdini for all the 3d magic and tinkle with Unreal and Unity Engines as well</h4>
+<h1>Akwaaba, I am Kwesikwaa Hayford</h1>
+<h3>A Software Engineer</h3>
+<h4>Also loves SideFx Houdini for all the 3d magic and tinkle with Unreal and Unity Engines as well</h4>
 
-<div align="center">
+<div >
 
 
 </div>
@@ -17,12 +17,13 @@
 </p>
 </div>
  -->
-<div align="center">
+<div>
 <h3>Frontend Tech</h3>
 <p ><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="20" align="center"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20" align="center"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20" align="center"/><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="20" height="20" align="center"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20" align="center"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20" align="center"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20" align="center"/></p>
 </div>
 
-<div align="center">
+<div>
 <h3 >Backend Tech</h3>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="30"/>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="30"/><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="20" align="center"/>
+  
 </div>
