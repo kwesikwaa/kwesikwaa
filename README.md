@@ -1,6 +1,6 @@
-<h1>Hello, I am Kwesikwaa Hayford</h1>
-<h3>A Software Engineer</h3>
-<h4>Also use SideFx Houdini for 3d magic, Unreal Engine and Unity Engine for game dev and AR</h4>
+<h1>Kwesikwaa Hayford</h1>
+<h3>Software Engineer</h3>
+<h4>Also uses SideFx Houdini for 3d magic, Unreal Engine and Unity Engine for game dev and AR</h4>
 
 <div >
 
