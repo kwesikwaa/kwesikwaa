@@ -24,7 +24,7 @@
 
 <div>
 <h3 >Backend Tech</h3>
-<div style="display: flex; justify-content: center;><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="50" height="50"/>
+<div style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="50" height="50"/>
 </div>
   
 </div>
