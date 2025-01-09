@@ -36,7 +36,7 @@
 
 <h3>3D & Games</h3>
 <div style="display: flex">
-<img src="https://static.sidefx.com/images/ui/sfx_logo.svg" alt="houdini" width="80" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/275px-Unity_Technologies_logo.svg.png?20210922191320" alt="unity" width="120" height="40"/> <img src="https://cms-assets.unrealengine.com/qiFQiyH6TiuMdOIA5yZJ" alt="unreal" width="160" height="30"/> 
+<img src="https://static.sidefx.com/images/ui/sfx_logo.svg" alt="houdini" width="80" height="40"/> <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/unity_logo_icon_249311.png" alt="unity" width="120" height="40"/> <img src="https://cms-assets.unrealengine.com/qiFQiyH6TiuMdOIA5yZJ" alt="unreal" width="160" height="30"/> 
 </div>
 
 </div>
