@@ -1,5 +1,5 @@
 <h1>Kwesikwaa Hayford</h1>
-<h3>Software Engineer, Unity-Unreal, SideFx Houdini</h3>
+<h3>Software Engineer, Unity+Unreal Engines, SideFx Houdini</h3>
 <div >
 
 </div>
