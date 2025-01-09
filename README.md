@@ -21,7 +21,7 @@
 
 <div>
 <h3 >Backend</h3>
-<div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="50" height="30"/>
+<div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="30"/>
 </div>
 
 <div>
