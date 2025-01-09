@@ -35,8 +35,8 @@
 </div>
 
 <h3>3D & Games</h3>
-<div style="display: flex; align-items: top; background-color: #f2f2f2; opacity:0;">
-<img src="https://static.sidefx.com/images/ui/sfx_logo.svg" alt="houdini" width="80" height="80"/> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="30" height="30" style="border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"/> 
+<div style="display: inline-block">
+<img src="https://static.sidefx.com/images/ui/sfx_logo.svg" alt="houdini" width="80" height="80"/> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="30" height="30"/> 
 </div>
 
 </div>
