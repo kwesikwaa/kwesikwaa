@@ -1,9 +1,6 @@
 <h1>Kwesikwaa Hayford</h1>
-<h3>Software Engineer</h3>
-<h4>Also uses SideFx Houdini for 3d magic, Unreal Engine and Unity Engine for game dev and AR</h4>
-
+<h3>Software Engineer, Unity-Unreal, SideFx Houdini</h3>
 <div >
-
 
 </div>
 <!-- <div align="center">
@@ -26,5 +23,11 @@
 <h3 >Backend Tech</h3>
 <div"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/>
 </div>
+
+<div>
+<h3 >Firmware/Embedded</h3>
+<div"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/>
+</div>
+
   
 </div>
