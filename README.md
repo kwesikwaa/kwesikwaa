@@ -25,7 +25,7 @@
 </div>
 
 <div>
-<h3 >Firmware/Embedded</h3>
+<h3 >Embedded/IoT</h3>
 <div><img src="https://avatars.githubusercontent.com/u/11621357?s=200&v=4" alt="platformio" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/> 
 </div>
 
