@@ -41,7 +41,7 @@
 
 <h3>3D & Games</h3>
 <div style="display: flex">
-<img src="houdini.png" alt="houdini" width="100" height="220"/> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png" alt="unity" width="100" height="40"/> <img src="ue.png" alt="unreal" width="120" height="150"/> 
+<img src="houdini.png" alt="houdini" width="100" height="220"/> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png" alt="unity" width="100" height="40"/> <img src="ue.png" alt="unreal" width="150" height="150"/> 
 </div>
 
 </div>
