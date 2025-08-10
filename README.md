@@ -41,7 +41,7 @@
 
 <h3>3D & Games</h3>
 <div style="display: flex">
-<img src="houdini.png" alt="houdini" width="80" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png" alt="unity" width="100" height="30"/> <img src="https://www.seekpng.com/png/detail/343-3436764_unreal-engine-is-a-video-game-engine-that.png" alt="unreal" width="160" height="50"/> 
+<img src="houdini.png" alt="houdini" width="80" height="60"/> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png" alt="unity" width="100" height="30"/> <img src="https://www.seekpng.com/png/detail/343-3436764_unreal-engine-is-a-video-game-engine-that.png" alt="unreal" width="160" height="50"/> 
 </div>
 
 </div>
